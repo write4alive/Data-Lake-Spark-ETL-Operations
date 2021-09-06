@@ -66,6 +66,6 @@ Alternatively, you can download the template files in the Resources tab in the c
 <br>
 The project template includes three files:<br>
 <br>
-etl.py reads data from S3, processes that data using Spark, and writes them back to S3<br>
-dl.cfgcontains your AWS credentials<br>
+etl.py    reads data from S3, processes that data using Spark, and writes them back to S3<br>
+dl.cfg    contains your AWS credentials<br>
 README.md provides discussion on your process and decisions<br>
