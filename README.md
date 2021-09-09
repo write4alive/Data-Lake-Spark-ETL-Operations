@@ -68,4 +68,5 @@ The project template includes three files:<br>
 <br>
 etl.py    reads data from S3, processes that data using Spark, and writes them back to S3<br>
 dl.cfg    contains your AWS credentials<br>
+schema.py contains log and song files schema<br>
 README.md provides discussion on your process and decisions<br>
